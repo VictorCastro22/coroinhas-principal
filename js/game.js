@@ -51,6 +51,14 @@ let questions = [
     choice3: "Evangelho",
     choice4: "Oração eucarística (consagração)",
     answer: 2
+  },
+  {
+    question: "Qual imagem representa o Turibulo?",
+    choice1: "<img src='../imagens/naveta.jpg' style='max-width: 35px; max-height: 35px;'>",
+    choice2: "<img src='../imagens/ambula.jpg' style='max-width: 35px; max-height: 35px;'>",
+    choice3: "<img src='../imagens/turibulo.jpg' style='max-width: 35px; max-height: 35px;'>",
+    choice4: "<img src='../imagens/galheta.jpg' style='max-width: 35px; max-height: 35px;'>",
+    answer: 2
   }
 ];
 
