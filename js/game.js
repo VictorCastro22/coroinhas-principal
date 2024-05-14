@@ -12,55 +12,48 @@ let questionCounter = 0;
 let availableQuesions = [];
 
 let questions = [
-    {
-      question: "Qual é o padroeiro dos coroinhas?",
-      choice1: "São Jorge",
-      choice2: "Sa",
-      choice3: "Antônio de Santarém",
-      choice4: "Antônio de Coimbra",
-      answer: 1
-    },
-    {
-      question: "Qual dessas cidades é conhecida por ter uma grande devoção a Santo Antônio?",
-      choice1: "Roma",
-      choice2: "Lisboa",
-      choice3: "Paris",
-      choice4: "Madri",
-      answer: 2
-    },
-    {
-      question: "Qual é o dia dedicado a São Tarcísio no calendário litúrgico da Igreja Católica?",
-      choice1: "13 de junho",
-      choice2: "17 de janeiro",
-      choice3: "15 de agosto",
-      choice4: "22 de novembro",
-      answer: 1
-    },
-    {
-      question: "Qual é o nome de nascimento de Santo Antônio?",
-      choice1: "Fernando de Bulhões",
-      choice2: "Manuel de Andrade",
-      choice3: "João de Sousa",
-      choice4: "Rafael dos Santos",
-      answer: 1
-    },
-    {
-      question: "Santo Antônio é conhecido como o santo das ________.",
-      choice1: "Flores",
-      choice2: "Crianças",
-      choice3: "Escolas",
-      choice4: "Causas impossíveis",
-      answer: 4
-    },
-    {
-      question: "Qual era a nacionalidade de Santo Antônio?",
-      choice1: "Portuguesa",
-      choice2: "Espanhola",
-      choice3: "Italiana",
-      choice4: "Brasileira",
-      answer: 1
-    }
-  ];
+  {
+    question: "Qual é a função principal do Missal na celebração da Missa?",
+    choice1: "Determinar o local da celebração",
+    choice2: "Guiar o sacerdote nas orações e ritos da Missa",
+    choice3: "Escolher as leituras do dia",
+    choice4: "Definir o número de fiéis permitidos na igreja",
+    answer: 2
+  },
+  {
+    question: "O que é encontrado no Ordinário da Missa do Missal?",
+    choice1: "Orações específicas para cada dia",
+    choice2: "Leituras bíblicas e salmos",
+    choice3: "Ritos e instruções para a celebração",
+    choice4: "Informações sobre a vida dos santos",
+    answer: 3
+  },
+  {
+    question: "Qual é a função do turíbulo na liturgia católica?",
+    choice1: "Iluminar o altar",
+    choice2: "Incensar e purificar o ambiente",
+    choice3: "Tocar música sacra",
+    choice4: "Armazenar as hóstias consagradas",
+    answer: 2
+  },
+  {
+    question: "Como devem ser descartadas as cinzas do turíbulo após o uso?",
+    choice1: "No lixo comum",
+    choice2: "Em uma fogueira",
+    choice3: "Sobre a água",
+    choice4: "Na terra",
+    answer: 4
+  },
+  {
+    question: "Qual parte da Missa não envolve o uso do turíbulo?",
+    choice1: "Procissão de entrada",
+    choice2: "Salmo",
+    choice3: "Evangelho",
+    choice4: "Oração eucarística (consagração)",
+    answer: 2
+  }
+];
+
   
   
 
